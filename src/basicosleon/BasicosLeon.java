@@ -16,6 +16,13 @@ public class BasicosLeon {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+                //Estos son los tipos básicos
+        byte numByte;
+        short numShort;
+        int numInt;
+        long numLong;
+        float numFloat;
+        double numDouble;
     }
     
 }
